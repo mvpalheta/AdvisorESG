@@ -242,8 +242,6 @@ A API irá retornar uma análise estruturada dos cinco streams e a recomendaçã
 ```
 
 ### Pontos de Melhoria
-- Realizar embedding das informações em cada stream antes de passa-las para o LLM analisar;
-
 - Melhoria nos prompts dos streams;
 
 - Acrescentar outras informações para refinar as análises.
